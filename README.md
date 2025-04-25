@@ -1,5 +1,5 @@
 # browser-extensions-manager
-چی بگم 😁
+
 📁 Project: Responsive Browser Extension Manager
 🎯 Platform: Frontend Mentor
 🧰 Tech Stack: HTML • CSS • JavaScript
@@ -9,6 +9,8 @@
 This project is a fully responsive browser extension manager built as a challenge on Frontend Mentor.
 Users can view, activate, or remove browser extensions in a clean, minimal interface.
 It’s focused on improving UI/UX, accessibility, and responsive web design skills.
+
+
 
 
 📁 پروژه: مدیریت افزونه مرورگر با طراحی ریسپانسیو
